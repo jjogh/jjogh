@@ -1,0 +1,3 @@
+- 👋 Hey, I’m @jjogh
+- 🧷 I’m interested in learning about diffetent languages, accessibility and web design. 
+- 🌱 I’m currently learning the basics about computer languages, coding and technology. 
